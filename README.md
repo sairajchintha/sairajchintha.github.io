@@ -1,4 +1,4 @@
-# chtgupta.github.io
+# sairajchintha.github.io
 ---
 ### Credits
 https://github.com/ryan-andri/ryan-andri.github.io for template
